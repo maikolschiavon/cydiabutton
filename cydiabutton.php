@@ -5,7 +5,7 @@
  */
 /*
 Plugin Name: Cydia Button
-Plugin URI: https://github.com/maikolschiavon/cydiapreview
+Plugin URI: https://github.com/maikolschiavon/cydiabutton
 Description: Enable Shortcode WP for show box with name, price and link for download tweak jailbreak from cydia
 Author: Maikol Schiavon
 Version: 1.0

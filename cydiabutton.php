@@ -12,6 +12,11 @@ Version: 1.0
 Author URI: https://github.com/maikolschiavon
 */
 
+/*
+ * Add this shortcode into your article
+   [cydia url="https://" cost="$0.99" name="Tweak Name" style="smallbox"]
+*/
+
 function cydia_func( $atts ) {
 	$tweak_name = $atts["name"];
 	$tweak_cost = $atts["cost"];
